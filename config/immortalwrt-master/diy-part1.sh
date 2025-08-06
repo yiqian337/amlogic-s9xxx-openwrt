@@ -9,7 +9,6 @@
 # Add a feed source
 # sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 # Add the OpenClash feed source
-sed -i '$a src-git openclash https://github.com/vernesong/OpenClash.git' feeds.conf.default
 # other
 # rm -rf package/emortal/{autosamba,ipv6-helper}
 
